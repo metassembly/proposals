@@ -1,4 +1,4 @@
-# 🚀 Specifications
+# 🚀 Proposals
 
-[The initial proposal for a metalssembly CRI and Kubernetes management system](./specs/1.md)
+[The initial proposal for a metassembly service and containerd plugin](./specs/1.md)
 
